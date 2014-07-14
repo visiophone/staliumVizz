@@ -1,0 +1,4 @@
+follower process: Exception caught
+rank: 1
+running: true
+java.io.EOFException
